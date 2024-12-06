@@ -7,3 +7,12 @@
 
 # IntelliJ
 .idea
+
+# Other
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+**/.DS_Store

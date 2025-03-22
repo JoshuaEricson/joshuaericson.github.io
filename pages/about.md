@@ -7,13 +7,10 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-I am a CRP student at Cal Poly San Luis Obispo
+![Profile Picture](/assets/images/profile_picture.jpeg)
 
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
+Hello, my name is **{{ site.author.name }}** :wave:,<br>
+I am a City and Regional Planning student at Cal Poly San Luis Obispo with a minor in Geographic Information Systems (GIS). 
 
 <div class="row">
 {% include about/timeline.html %}

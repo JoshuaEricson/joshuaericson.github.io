@@ -6,6 +6,7 @@ weight: 3
 ---
 
 # **About Me**
+Book a meeting with me: [Microsoft Bookings](https://outlook.office.com/bookwithme/user/9e2fe987de3046ddb8494cded1596d3c@calpoly.edu?anonymous&ep=plink)
 
 ![Profile Picture](/assets/images/profile_picture.jpeg)
 

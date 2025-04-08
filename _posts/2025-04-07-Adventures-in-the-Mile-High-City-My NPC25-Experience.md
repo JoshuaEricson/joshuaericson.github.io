@@ -1,0 +1,32 @@
+---
+title: "Adventures in the Mile High City: My NPC25 Experience"
+tags: 
+style: fill
+color: dark
+description: Sharing my experience attending the American Planning Association's 2025 National Planning Conference in Denver, CO!
+---
+This spring break I had the to opportunity to attend the American Planning Association's National Planning Conference in Denver. On Friday morning at 5am, I got on a flight to Denver out of San Luis Obispo Regional Airport. On this tiny plant, I found myself with many of my classmates, and other conference attendees, including Mike Boswell, former CRP Department Head and current SLO City Council Elect.
+
+![NPC25 Group Picture](/assets/images/02_NPC25_Post/NPC25_Group_Picture.jpeg)
+*Picture of all 18 Cal Poly Students who were in attendance*
+
+It was so inspiring to be in a space with thousands of planning from across the country. Working professionals planners and educators came from Ohio, Illinois, Alabama, Georgia, California, Texas, Florida, Colorado, and many other states across the US. Each of these individuals attended for a different reason, and while some have attended the conference every year of their professional career, there were many for whom this was their first ever APA conference. It was gratifying to meet these professionals at various happy-hour networking events, but in fact some of the best networking took place in informal spaces such as: on buses, at restaurants, and in the hotel's hot tub!
+
+The conference kicked off on an inspiring with an opening ceremony starring the Denver-based Feminist a cappella ensemble [Take Note!](https://www.instagram.com/takenotedwc/ ), APA CEO Joel Albizo, and APA President Sue Schwartz. Then, psychologist and former CIA Agent, Dr. Mary Beth shared a Keynote address on the topic of building resilience to improve health and performance. She shared that resilience can help to counter the detrimental effects of negative mindsets and pessimism. The Yerkes-Dodson Law can help to explain how an optimal level of stress can boost performance and energy, while an excess of stress can lead to fatigue and burnout.
+
+![Yerkes-Dodson Human Performance and Stress Curve](/assets/images/02_NPC25_Post/yerkes-dodson-law-graph.jpeg)
+
+Using this framework, it is possible to self-reflect and realize the importance of taking measures to reduce stress. Even when it feels like taking time for self-care is a waste of time, looking at it through the lens of the Yerkes-Dodson Law, we can see that self-care is actually a vital tool to sustained success. Beth's keynote was a great start to a very busy weekend, and was an important reminder to take breaks throughout the conference, and take time to relax and explore the city.
+
+Throughout the weekend, the student center in the Exhibitor Hall was a great place to relax and network with other students. Students from schools including Brown University, Cal Poly Pomona, and Western Washington University were able to interact and network. All of these people were entirely outside of my Cal Poly SLO and California bubble. I found myself having to explain California geography to people who had never even been to California. I hope that these interactions will lead to lasting connections between student groups from planning schools across the country.
+
+Beyond the incredible interaction I had with other students, the conference offered some really enriching and educational sessions with city leaders across the county sharing the state of planning in their cities. One Session that really stood out was a session on downtown redevelopment in major cities, namely: the cities of Denver, Brooklyn, and Chicago. Leaders from these cities shared how using new funding structures like Tax Increment Financing (TIF) on downtown businesses were incredibly useful to spark development and fund downtown development organizations. The city of Brooklyn in particular was able to use a TIF to completely revitalize their downtown with the addition of mixed-use zoning and increased building height limits. The money generated from the TIF was used in the redevelopment of city-owned parking lots to make big changes in the downtown landscape.
+
+Another session that I found to be really interesting discussed community-driven climate planning. Leaders of climate planning from Austin, Denver, and Los Angles Shared their recent efforts to incorporate community engagement in their climate planning efforts. The city of Austin utilized citizen science to engage the community. By giving people car mounted air quality and temperature sensors they allowed the community to take part in data collection which helped to build personal investment in the planning process. This data resulted in a map that showed the hottest streets were the ones that didn't currently have street trees, but interviews revealed that the people experience heat most often at parks and in their homes. This finding led to the understanding that there is "No data without stories, and no stories without data." This was a great reminder for any work I do in the future, that the best design choices have both data and stories that back them up.
+
+The City of Denver left an amazing impression on me! I explored a multitude of awesome corridors across the city using Denver’s RTD buses, lime bike/scooter share, and my own two feet. 16th street is a vibrant pedestrian and transit mall connecting Union Station to the Convention Center. Brighton Blvd is an expansive boulevard connecting Downtown Denver to the RiNo (River North) arts district with high-quality raised bikeways, wide sidewalks, and well-designed bus stops. And the Cherry Creek, and South Platte River Trails are incredibly long, entirely grade-separated corridors that run along the riverbanks, forming the back bone of Denver's active transportation commuter network.
+
+![Cherry Creek Bike Path](/assets/images/02_NPC25_Post/Cherry_Creek_Path.jpeg)
+*The Cherry Creek Path had some sections with detours during floods, but luckily there wasn't any rain*
+
+I am so thankful to the Cal Poly City and Regional Planning Department for sponsoring me to go on this trip, and I can't wait to go to another National Planning Confrence in the Future!

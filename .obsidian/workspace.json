@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "98c6bed7419b069f",
+    "type": "split",
+    "children": [
+      {
+        "id": "140ef9eda89c7bdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "813426381454868f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-04-07-Adventures-in-the-Mile-High-City-My NPC25-Experience.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-07-Adventures-in-the-Mile-High-City-My NPC25-Experience"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11cfb2ba218bef11",
+    "type": "split",
+    "children": [
+      {
+        "id": "edcc86347b65bc3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cce7819475b98cac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "16c3e6e6ae92e88e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "62a795903c374ec2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "828dd8b259854084",
+    "type": "split",
+    "children": [
+      {
+        "id": "1433e23471a7abf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "229d5d22e86f46fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2025-04-07-Adventures-in-the-Mile-High-City-My NPC25-Experience.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-04-07-Adventures-in-the-Mile-High-City-My NPC25-Experience"
+            }
+          },
+          {
+            "id": "cfe03a6fd0d26ccc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2025-04-01-An-Incredible-Conference!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-04-01-An-Incredible-Conference!"
+            }
+          },
+          {
+            "id": "48a7a24f20997aa2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "58954832525db313",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2025-04-01-An-Incredible-Conference!.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-04-01-An-Incredible-Conference!"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "813426381454868f",
+  "lastOpenFiles": [
+    "assets/images/02_NPC25_Post/Cherry_Creek_Path.jpeg",
+    "assets/images/02_NPC25_Post/IMG_0595.jpeg",
+    "assets/images/02_NPC25_Post/IMG_0595.jpeg.sb-80c0d2c8-YdBD9A",
+    "assets/images/02_NPC25_Post/yerkes-dodson-law-graph.jpeg",
+    "assets/images/02_NPC25_Post/yerkis-dodson-law-graph.jpeg",
+    "assets/images/02_NPC25_Post/yerkis-dodson-law-graph.jpg",
+    "_site/assets/images/02_NPC25_Post/NPC25_Group_Picture.JPEG",
+    "_site/assets/images/02_NPC25_Post",
+    "assets/images/02_NPC25_Post/NPC25_Group_Picture.JPEG",
+    "assets/images/02_NPC25_Post",
+    "_site/assets/images/02 NPC25 Post/NPC25_Group_Picture.JPEG",
+    "assets/images/02 NPC25 Post/NPC25_Group_Picture.JPEG",
+    "assets/images/02.md",
+    "_site/assets/images/02.md",
+    "_site/assets/images/02.html",
+    "_posts/2025-04-07-Adventures-in-the-Mile-High-City-My NPC25-Experience.md",
+    "_site/assets/images/02 NPC25 Post/NPC25 Group Picture.JPEG",
+    "_site/assets/images/02 NPC25 Post",
+    "assets/images/02 NPC25 Post/NPC25 Group Picture.JPEG",
+    "assets/images/02 NPC25 Post",
+    "assets/images/02 APA Confrence Post",
+    "assets/images/02 APA confrence Post",
+    "assets/images/APA confrence Post",
+    "assets/images/untitled folder",
+    "_posts/2025-03-22-hello-world.md",
+    "README.md"
+  ]
+}

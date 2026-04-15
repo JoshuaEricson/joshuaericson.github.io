@@ -25,12 +25,10 @@
             "id": "dc66950655a80cda",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -182,8 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc66950655a80cda",
+  "active": "cce7819475b98cac",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Untitled 1.base",
     "assets/images/03_Bike_Post/IMG_3964.jpeg",
     "_posts/2026-01-25-Vanmoof-The-Tesla-of-E-Bikes.md",
     "assets/images/03_Bike_Post/IMG_3964.jpeg.sb-383090fb-wUidKf",
@@ -208,7 +208,6 @@
     "pages/about.md",
     "assets/images/03_Bike_Post",
     "assets/images/02_NPC25_Post/IMG_0595.jpeg.sb-80c0d2c8-YdBD9A",
-    "_site/assets/images/02_NPC25_Post",
     "assets/images/02.md",
     "_site/assets/images/02.md",
     "README.md"

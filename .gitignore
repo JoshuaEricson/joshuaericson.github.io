@@ -16,3 +16,5 @@ _site/
 .bundle/
 vendor/
 **/.DS_Store
+.obsidian/
+.obsidian/workspace.json

@@ -1,7 +1,7 @@
 ---
-name: CAFES Working Lands Mapping
+name: Cal Poly Working Lands Mapping
 tools: [ArcGIS Storymaps, ArcGIS Online, Survey Design]
-image: https://github.com/JoshuaEricson/joshuaericson.github.io/blob/main/assets/images/00_projects/Working-Lands-Mapping-Project ?raw=true
+image: https://github.com/JoshuaEricson/joshuaericson.github.io/blob/main/assets/images/00_projects/Working-Lands-Mapping-Project.jpeg?raw=true
 description: Mapping the Agricultual Working Lands on Cal Poly's Campus
 ---
 # Working Lands Mapping Project
